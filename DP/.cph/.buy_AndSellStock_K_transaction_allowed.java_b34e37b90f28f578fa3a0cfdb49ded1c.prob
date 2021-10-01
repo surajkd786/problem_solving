@@ -1,0 +1,1 @@
+{"name":"Local: buy_AndSellStock_K_transaction_allowed","url":"e:\\DsaInJava\\buy_AndSellStock_K_transaction_allowed.java","tests":[{"id":1624300082675,"input":"6\n9\n6\n7\n6\n3\n8\n1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\buy_AndSellStock_K_transaction_allowed.java","group":"local","local":true}

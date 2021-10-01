@@ -1,0 +1,1 @@
+{"name":"Local: coin_cage_permutation","url":"e:\\DsaInJava\\coin_cage_permutation.java","tests":[{"id":1623293219662,"input":"4\n2\n3\n5\n6\n7","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\coin_cage_permutation.java","group":"local","local":true}

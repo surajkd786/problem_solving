@@ -1,0 +1,1 @@
+{"name":"Local: Fractional_knapsack","url":"e:\\DsaInJava\\Fractional_knapsack.java","tests":[{"id":1623509857126,"input":"10\n33 14 50 9 8 11 6 40 2 15 \n7 2 5 9 3 2 1 10 3 3 \n5","output":"50.0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\Fractional_knapsack.java","group":"local","local":true}

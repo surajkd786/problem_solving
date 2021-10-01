@@ -1,0 +1,1 @@
+{"name":"Local: maximum_in_a_generic_tree","url":"e:\\DsaInJava\\Trees\\Generic Trees\\maximum_in_a_generic_tree.java","tests":[{"id":1626074827088,"input":"12\n10 20 -1 30 50 -1 60 -1 -1 40 -1 -1","output":"60"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\Trees\\Generic Trees\\maximum_in_a_generic_tree.java","group":"local","local":true}

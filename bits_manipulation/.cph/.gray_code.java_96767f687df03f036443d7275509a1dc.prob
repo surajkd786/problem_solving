@@ -1,0 +1,1 @@
+{"name":"Local: gray_code","url":"e:\\DsaInJava\\bits_manipulation\\gray_code.java","tests":[{"id":1632581755359,"input":"2","output":"[00, 01, 10, 11]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\bits_manipulation\\gray_code.java","group":"local","local":true}

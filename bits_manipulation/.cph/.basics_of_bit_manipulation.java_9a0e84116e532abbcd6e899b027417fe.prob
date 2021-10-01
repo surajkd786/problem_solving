@@ -1,0 +1,1 @@
+{"name":"Local: basics_of_bit_manipulation","url":"e:\\DsaInJava\\bits_manipulation\\basics_of_bit_manipulation.java","tests":[{"id":1632159858918,"input":"57\n3 \n3 \n3 \n3","output":"57\n49\n49\ntrue"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\bits_manipulation\\basics_of_bit_manipulation.java","group":"local","local":true}

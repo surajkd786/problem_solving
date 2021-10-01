@@ -1,0 +1,1 @@
+{"name":"Local: postfix_evaluation_and_conversions","url":"e:\\DsaInJava\\stack\\postfix_evaluation_and_conversions.java","tests":[{"id":1624769466018,"input":"264*8/+3-","output":"2\n((2+((6*4)/8))-3)\n-+2/*6483"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\stack\\postfix_evaluation_and_conversions.java","group":"local","local":true}

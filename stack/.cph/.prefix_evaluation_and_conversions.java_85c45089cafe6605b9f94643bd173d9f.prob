@@ -1,0 +1,1 @@
+{"name":"Local: prefix_evaluation_and_conversions","url":"e:\\DsaInJava\\stack\\prefix_evaluation_and_conversions.java","tests":[{"id":1624771061313,"input":"-+2/*6483","output":"2\n((2+((6*4)/8))-3)\n264*8/+3-"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\stack\\prefix_evaluation_and_conversions.java","group":"local","local":true}

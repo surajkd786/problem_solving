@@ -1,0 +1,1 @@
+{"name":"Local: buyAndSellStocks_oneTransaction_Allowed","url":"e:\\DsaInJava\\buyAndSellStocks_oneTransaction_Allowed.java","tests":[{"id":1624098122610,"input":"9\n11\n6\n7\n19\n4\n1\n6\n18\n4","output":"17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\buyAndSellStocks_oneTransaction_Allowed.java","group":"local","local":true}

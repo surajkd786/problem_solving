@@ -1,0 +1,1 @@
+{"name":"Local: paint_fences","url":"e:\\DsaInJava\\paint_fences.java","tests":[{"id":1623991998645,"input":"8\n3","output":"3672"},{"id":1623992488492,"input":"5\n3","output":"180"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\paint_fences.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: UnboundedKnapsack","url":"e:\\DsaInJava\\UnboundedKnapsack.java","tests":[{"id":1623493190083,"input":"5\n15 14 10 45 30\n2 5 1 3 4\n7","output":"100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\UnboundedKnapsack.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: count_encodings","url":"e:\\DsaInJava\\count_encodings.java","tests":[{"id":1623662232798,"input":"123","output":"3"},{"id":1623744693863,"input":"231011","output":"4"},{"id":1623744717952,"input":"2357002","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\count_encodings.java","group":"local","local":true}

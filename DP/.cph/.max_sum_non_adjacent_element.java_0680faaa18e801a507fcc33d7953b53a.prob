@@ -1,0 +1,1 @@
+{"name":"Local: max_sum_non_adjacent_element","url":"e:\\DsaInJava\\max_sum_non_adjacent_element.java","tests":[{"id":1623831097672,"input":"6\n5\n10\n10\n100\n5\n6","output":"116"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\max_sum_non_adjacent_element.java","group":"local","local":true}

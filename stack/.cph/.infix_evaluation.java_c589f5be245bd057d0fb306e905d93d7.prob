@@ -1,0 +1,1 @@
+{"name":"Local: infix_evaluation","url":"e:\\DsaInJava\\stack\\infix_evaluation.java","tests":[{"id":1624689035373,"input":"2 + 6 * 4 / 8 - 3","output":"2"},{"id":1624701169724,"input":"7 + (6 * 8 / 4) + 9","output":"28"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\stack\\infix_evaluation.java","group":"local","local":true}

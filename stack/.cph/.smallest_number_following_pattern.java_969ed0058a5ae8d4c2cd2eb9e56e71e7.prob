@@ -1,0 +1,1 @@
+{"name":"Local: smallest_number_following_pattern","url":"e:\\DsaInJava\\stack\\smallest_number_following_pattern.java","tests":[{"id":1624946576072,"input":"ddddiiii","output":"543216789"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\stack\\smallest_number_following_pattern.java","group":"local","local":true}

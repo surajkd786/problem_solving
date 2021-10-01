@@ -1,0 +1,1 @@
+{"name":"Local: fold_a_linkedList","url":"e:\\DsaInJava\\linkedList\\fold_a_linkedList.java","tests":[{"id":1625978573888,"input":"5\n1 2 3 4 5\n10\n20","output":"1 2 3 4 5 \n1 5 2 4 3 \n10 1 5 2 4 3 20 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\linkedList\\fold_a_linkedList.java","group":"local","local":true}
